@@ -14,3 +14,4 @@ file type
 symbols
 lets move
 lets move
+clean emacs
