@@ -9,3 +9,4 @@ move directory
 deleting
 deleting directories
 going back
+lists
