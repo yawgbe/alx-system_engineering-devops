@@ -7,3 +7,4 @@ i love numbers
 creating directory
 move directory
 deleting
+deleting directories
