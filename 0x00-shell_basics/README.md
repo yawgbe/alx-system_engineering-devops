@@ -3,3 +3,4 @@ Displaying the contents list of your current directory
 to take me home
 in long format
 list hidden files
+i love numbers
