@@ -5,3 +5,4 @@ in long format
 list hidden files
 i love numbers
 creating directory
+move directory
