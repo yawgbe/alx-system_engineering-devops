@@ -10,3 +10,4 @@ deleting
 deleting directories
 going back
 lists
+file type
