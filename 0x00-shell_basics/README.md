@@ -19,3 +19,4 @@ tree
 commas
 file type
 switch user
+who am i
