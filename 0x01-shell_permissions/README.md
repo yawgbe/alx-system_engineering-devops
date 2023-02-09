@@ -4,3 +4,4 @@ groups
 new owner
 execute
 multiple permission
+everybody
